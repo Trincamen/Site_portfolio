@@ -1,0 +1,7 @@
+.git
+qrcode/
+scripts/
+README.md
+SPEC.md
+Dockerfile
+.dockerignore
